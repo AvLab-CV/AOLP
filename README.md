@@ -20,8 +20,8 @@ Here are some examples from the dataset.
 Data Download 
 --
  1. [Get a password](#how-to-get-a-password)
- 2. Restriction
- 3. Download Links
+ 2. [Restriction](#restriction)
+ 3. [Download Link](#download-link)
  
 How to get a Password
 -
