@@ -19,11 +19,11 @@ Here are some examples from the dataset.
 
 Data Download 
 --
- 1. [Get a password](#How to get a Password)
+ 1. [Get a password](#how-to-get-a-password)
  2. Restriction
  3. Download Links
  
-## How to get a Password
+How to get a Password
 -
 Please send an e-mail to the database administrator and cc. to Prof. Gee-Sern (Jison) Hsu to receive the passcode to unlock the zipped database. Your Email MUST be sent from a valid University account and include the following [request forms](./RequestForms.txt):
 
