@@ -8,7 +8,7 @@ AOLP contains 2,049 images, with various locations, time, tracffic, and weather 
 - **Traffic law enforcement** refers to the cases that a vehicle travels at a regular or higher speed but violates traffic laws, such as a traffic signal or speed limit, and is captured by a roadside camera. 757 images were collected for this application category.
 - **Road patrol** refers to the cases that the camera is installed or handheld on a patrolling vehicle which takes images of the vehicles with arbitrary viewpoints and distances. 
 
-We hope that the AOLP database could revolutionized the landscape of license plate research, and serve as a fair comparison dataset to facilitate future studies of license plate recognition. A detailed introduction of IMDb-Face can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6339122)
+We hope that the AOLP database could revolutionized the landscape of license plate research, and serve as a fair comparison dataset to facilitate future studies of license plate recognition. A detailed introduction of IMDb-Face can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6339122).
 
 
 
@@ -19,7 +19,7 @@ Here are some examples from the dataset.
 
 Data Download 
 --
- 1. Get a password
+ 1. [Get a password](#How to get a Password)
  2. Restriction
  3. Download Links
  
