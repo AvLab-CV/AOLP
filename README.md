@@ -41,11 +41,10 @@ I have read and agreed to follow the restrictions specified in the AOLP database
 ```
 In general, a password will take 3-7 workdays to issue. To avoid problems with our spam filter, make sure that your email is sent from an .edu (or similar) address. Failure to follow the instruction may result in no response. 
 
-Prof. Hsu's e-mail:
-jison@mail.ntust.edu.tw
+Database administrator: qunc85@gmail.com
+Prof. Hsu's e-mail: jison@mail.ntust.edu.tw
 
-Database administrator:
-qunc85@gmail.com
+
 
 Restriction
 -
@@ -59,16 +58,14 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
- 
-
-
+[AOLP Download Link](http://140.118.199.217:5000/sharing/H4RWvypuN)
 
 
 Citation and Contact
 --
 If you like our work or find AOLP dataset useful, please cite the following paper：
 
-Any suggestion or comment would be valuable. Please send an email to Jison Hsu at jison@mail.ntust.edu.tw  or Database administrator  at qunc85@gmail.com
+Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
 ```
 @article{hsu2012application,
   title={Application-oriented license plate recognition},
@@ -77,9 +74,6 @@ Any suggestion or comment would be valuable. Please send an email to Jison Hsu a
   year={2012},
 }
 ```
-
-
-
 
 
 
