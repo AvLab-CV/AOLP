@@ -1,4 +1,4 @@
-# Application-Oriented License Plate Recognition([Website](http://aolpr.ntust.edu.tw/lab/index.html)]
+# Application-Oriented License Plate Recognition([Website](http://aolpr.ntust.edu.tw/lab/index.html))
 By Hsu, Gee-Sern and Chen, Jiun-Chang and Chung, Yu-Zu
 
 
