@@ -27,7 +27,7 @@ Please send an e-mail to the database administrator and cc. to Prof. Gee-Sern (J
 
 ```
 Subject: Application to download the AOLP database
-***Name***: <your first and last name>
+Name: <your first and last name>
 Affiliation: <University where you work>
 Department: <your department>
 Current position: <your job title>
@@ -38,6 +38,12 @@ I have read and agreed to follow the restrictions specified in the AOLP database
 <your signature>
 ```
 In general, a password will take 3~7 workdays to issue. To avoid problems with our spam filter, make sure that your email is sent from an .edu (or similar) address. Failure to follow the instruction may result in no response. 
+
+Prof. Hsu's e-mail:
+jison@mail.ntust.edu.tw
+
+Database administrator:
+qunc85@gmail.com
 
 Restriction
 -
