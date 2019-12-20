@@ -8,7 +8,7 @@ Here are some examples from the dataset.
 ![Alt text](LicPlate.PNG?raw=true "Title")
 
 Citation and Contact
-==
+--
 If you like our work or find AOLP dataset useful, please cite the folowwing paper：
 ```
 @article{hsu2012application,
