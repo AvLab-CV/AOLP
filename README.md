@@ -17,6 +17,13 @@ Here are some examples from the dataset.
 
 Data Download 
 --
+ 01 Get a password
+ 02 Restriction
+ 03 Download Links
+ 
+How to get a Password
+-
+To guarantee the proper use of this database, the following restrictions must be followed by any person who has downloaded the database.
 
 
 
