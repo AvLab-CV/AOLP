@@ -27,7 +27,7 @@ Please send an e-mail to the database administrator and cc. to Prof. Gee-Sern (J
 
 ```
 Subject: Application to download the AOLP database
-Name: <your first and last name>
+***Name***: <your first and last name>
 Affiliation: <University where you work>
 Department: <your department>
 Current position: <your job title>
