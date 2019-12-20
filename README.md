@@ -19,7 +19,7 @@ Here are some examples from the dataset.
 
 Data Download 
 --
- 1. [Get a password](#How to get a Password)
+ 1. [Get a password](#How)
  2. Restriction
  3. Download Links
  
