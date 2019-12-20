@@ -7,12 +7,16 @@ AOLP is the is the largest license plate ...
 Here are some examples from the dataset.
 ![Alt text](LicPlate.PNG?raw=true "Title")
 
-`@article{hsu2012application,
+
+```
+@article{hsu2012application,
   title={Application-oriented license plate recognition},
   author={Hsu, Gee-Sern and Chen, Jiun-Chang and Chung, Yu-Zu},
   journal={IEEE transactions on vehicular technology},
   year={2012},
-}`
+}
+```
+
 
 
 
