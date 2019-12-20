@@ -8,6 +8,7 @@ Here are some examples from the dataset.
 ![Alt text](LicPlate.PNG?raw=true "Title")
 
 
+If you like our work or find our published dataset useful, please cite the folowwing paper：
 ```
 @article{hsu2012application,
   title={Application-oriented license plate recognition},
