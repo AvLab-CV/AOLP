@@ -16,10 +16,11 @@ Here are some examples from the dataset.
 ![Alt text](LicPlate.PNG?raw=true "Title")
 
 
-Update
+Update (example)
 --
 |Date|Updata|
 |----|------|
+|2019-12-20|Move the dataset download link to Google|
 
 
 
