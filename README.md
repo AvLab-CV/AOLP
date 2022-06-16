@@ -67,7 +67,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[AOLP Download Link](https://drive.google.com/open?id=1C1L4mgd8omtCrBbCvei9mItA14ZWDj9O)
+[AOLP Download Link](https://drive.google.com/file/d/1ebkEZfeldgofJWyDMz4FAzzguwX_QxvY/view?usp=sharing)
 
 
 Citation and Contact
